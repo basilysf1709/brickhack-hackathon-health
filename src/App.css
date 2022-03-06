@@ -1,0 +1,52 @@
+.header {
+    display: flex;
+    justify-content: center;
+    font-family: 'Hubballi', cursive;
+    margin-top: 33px;
+}
+
+.quote {
+    display: flex;
+    justify-content: center;
+    font-family: 'Hubballi', cursive;
+    margin: 22px;
+    font-size: 20px;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 12px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.button:hover {
+    background-color: blue; /* Green */
+}
+
+.search {
+  padding: 6px;
+  border: solid;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
+
+.bar-container {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    height: 70vh;
+    width: 70vw;
+}
